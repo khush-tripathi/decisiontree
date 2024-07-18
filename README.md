@@ -1,2 +1,2 @@
 # DTR
-https://dtrweather.streamlit.app/
+https://khushidecisiontree.streamlit.app/
